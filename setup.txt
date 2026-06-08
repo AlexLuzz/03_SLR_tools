@@ -1,0 +1,5 @@
+conda create -n slr python=3.11
+conda activate slr
+pip install llama-index llama-index-llms-ollama llama-index-embeddings-huggingface llama-index-vector-stores-chroma pymupdf chromadb
+
+ollama pull mistral

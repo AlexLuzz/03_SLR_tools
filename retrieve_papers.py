@@ -13,9 +13,9 @@ search_string = (
     'AND ("inversion" OR "processing" OR "bottleneck" OR "trend")'
 )
 
-("near surface geophysics" OR "hydrogeophysics" OR "electrical resistivity tomography" OR "ground penetrating radar" OR "distributed temperature sensing") 
-AND ("time-lapse" OR "monitoring" OR "4D" OR "spatio-temporal") 
-AND ("inversion" OR "assimilation" OR "machine learning" OR "deep learning" OR "neural network")
+#("near surface geophysics" OR "hydrogeophysics" OR "electrical resistivity tomography" OR "ground penetrating radar" OR "distributed temperature sensing") 
+#AND ("time-lapse" OR "monitoring" OR "4D" OR "spatio-temporal") 
+#AND ("inversion" OR "assimilation" OR "machine learning" OR "deep learning" OR "neural network")
 
 # OpenAlex supports pipe '|' as an OR operator for ISSNs
 journal_issns = "0016-8033|0043-1397|0926-9851|1569-4445|0169-3298"
